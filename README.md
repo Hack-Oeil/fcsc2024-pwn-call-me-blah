@@ -11,7 +11,7 @@ Fichiers:
 - [libc-2.36.so](libc-2.36.so)
 
 
-Auteur : Cryptanalyse
+Auteur : [Cryptanalyse](https://twitter.com/Cryptanalyse)
 
 Origine : [Call Me Blah](https://hackropole.fr/fr/challenges/pwn/fcsc2024-pwn-call-me-blah/)
 
